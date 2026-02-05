@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0b3d2e;
+  color: #ffffff;
+  text-align: center;
+}
+
+header {
+  padding: 30px 10px;
+  background: linear-gradient(135deg, #0b3d2e, #d4af37);
+}
+
+h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+main {
+  padding: 20px;
+}
+
+button {
+  padding: 12px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  background: #d4af37;
+  color: #000;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  opacity: 0.8;
+}
